@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="default_bg">#FFED8D</color>
+    <color name="button_border">#848484</color>
+    <color name="edittext_border">#000000</color>
+    <color name="button_bg_color">#3C3A3F</color>
+    <color name="white">#FFFFFF</color>
+    <color name="gray">#D8D8D8</color>
+    <color name="black">#000000</color>
+    <color name="iphone_bg">#EEEEEE</color>
+    <color name="iphone_green">#4707F8</color>
+    <color name="cakes_bg">#FCD413</color>
+    <color name="feature_color">#c0000000</color>
+    <color name="header_bg">#FEDA15</color>
+    
+</resources>
